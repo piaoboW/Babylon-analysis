@@ -27,7 +27,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 1 Bitcoin链中Hash值计算包含之前区块的Hash值
+      <p align="center"><font face="黑体" size=3.>图 1 Bitcoin链中Hash值计算包含之前区块的Hash值</font></p>
       </div>
 </center>
 
