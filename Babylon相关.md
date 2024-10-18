@@ -50,8 +50,8 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 2 Bitcoin staking is a two-sided market place
-      </div>
+     <p align="center"><font face="黑体" size=3.>图 2 Bitcoin staking is a two-sided market place</font></p>
+     </div>
 </center>
 &emsp;&emsp;Babylon比特币质押协议与现有的消费PoS链结合，具有三个重要的安全属性：1）全面可罚减的PoS安全性，对于质押者的违规行为可追溯(accountable assertion)，并且仅需三分子二的质押者遵守PoS协议，PoS链就能保持良好的活性；2）质押者的安全性，每一位诚实的质押者都可以到期或者提前解绑其质押的比特币；3）质押者的流动性，不要社区共识就能安全快速的解绑质押的比特币。Babylon协议的这些安全特性，是基于Bitcoin链可共享元素，通过创新性的设计，远程质押比特币资产在比特币链上，同时利用PoS链对违规者的可追溯和可消减特征共同完成了对安全性的基本保证。Babylon协议实现其功能涉及了Bitcoin链中的UTXO、时间戳、多重签名以及脚本等。 
 
@@ -65,7 +65,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 3 诚实的比特币质押过程和违规的比特币质押过程
+     <p align="center"><font face="黑体" size=3.>图 3 诚实的比特币质押过程和违规的比特币质押过程</font></p>
       </div>
 </center>  
 
@@ -93,7 +93,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 4 质押流程
+     <p align="center"><font face="黑体" size=3.>图 4 质押流程</font></p>
       </div>
 </center> 
 
@@ -122,7 +122,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 5 由控制和数据平面组成的系统结构
+      <p align="center"><font face="黑体" size=3.>图 5 由控制和数据平面组成的系统结构</font></p>
       </div>
 </center> 
 
@@ -140,7 +140,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 6 Babylon协议架构图
+      <p align="center"><font face="黑体" size=3.>图 6 Babylon协议架构图</font></p>
       </div>
 </center> 
 
@@ -167,7 +167,8 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-      图 7 Babylon协议架构图
+     <p align="center"><font face="黑体" size=3.>图 7 Babylon协议架构图</font></p>
+      
       </div>
 </center> 
 
