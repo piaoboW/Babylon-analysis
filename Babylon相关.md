@@ -153,6 +153,7 @@
 &emsp;&emsp;3）	生成时间戳：一旦这些哈希在Bitcoin链上被记录下来，PoS区块链将获得来自Bitcoin链的时间戳；
 
 &emsp;&emsp;4）	使用时间戳：PoS区块链可以利用Bitcoin的时间戳验证其数据的安全性和时效性。
+
 &emsp;&emsp;在Babylon协议中，Bitcoin时间戳提供安全的基本原理如下图所示，即
 
 *	进行攻击的分支将获得BTC主链上一个更晚的BTC时间戳，则根据分支选择规则，该分支将不会被任何消费PoS选择；
@@ -167,9 +168,7 @@
     display: inline-block;
     color: #999;
     padding: 2px;">
-     <p align="center"><font face="黑体" size=3.>图 7 Babylon协议架构图</font></p>
-      
-      </div>
+     <p align="center"><font face="黑体" size=3.>图 7 Bitcoin时间戳提供安全的基本原理</font></p>
 </center> 
 
 &emsp;&emsp;在解决长距离攻击的同时，PoS块上不可逆的BTC时间戳为PoS链提供了额外的安全收益：  
